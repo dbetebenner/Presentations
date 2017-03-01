@@ -1,2 +1,4 @@
-# Presentations
-Resource compiling links to all presentations
+Presentations
+=============
+
+Repository for presentations
